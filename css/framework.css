@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-align: ;
   }
   
   .container{
@@ -166,3 +167,5 @@
   .align-end{
     align-self: flex-end;
   }
+
+
