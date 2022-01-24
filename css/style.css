@@ -1,0 +1,13 @@
+.debug [class*="col"]{
+    background-color: #006CFA;
+    padding: 20px 0;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+  }
+
+/* BG-green */
+
+.bg-green{
+    background-color: #00E164!important;
+  }
